@@ -1,0 +1,6 @@
+Technique:
+1. First, try to tokenize the words from the sentence, using NLTK
+2. Then, try to find the postion of the particular token in the sentence frame, i.e, noun, pronoun etc. This was also done by NLTK.
+3. Then, find out the Proper noun, noun and the singular noun and feed them into a final list for each of the paragraph.
+4. Then, try to map between two similar list that contains only the elements that present into the final list.
+Future mapping not done due to not knowing that concept. 
